@@ -42,7 +42,7 @@ public class MessageTest {
 		RestAPI restAPI = new RestAPI(auth_id, auth_token);
 		LinkedHashMap<String, String> parameters = new LinkedHashMap<String, String>();
 		parameters.put("src", "xx");
-		parameters.put("dst", "xx<xx");
+		parameters.put("dst", "xx<x");
 		parameters.put("answer_url",
 				"http://xxxx.rhcloud.com/statusCallback.jsf");
 		try {
