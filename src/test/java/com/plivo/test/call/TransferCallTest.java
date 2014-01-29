@@ -1,23 +1,19 @@
 package com.plivo.test.call;
 
-import java.util.LinkedHashMap;
+import junit.framework.Assert;
 
-import com.plivo.helper.api.client.RestAPI;
+import org.junit.Test;
+
 import com.plivo.helper.api.response.response.GenericResponse;
 import com.plivo.helper.exception.PlivoException;
+import com.plivo.test.common.AbstractTest;
 
-public class TransferCall {
+public class TransferCallTest extends AbstractTest {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
+	@Test
+	public void test() {
 
-		RestAPI restAPI = new RestAPI("<AUTH_ID>", "<AUTH_TOKEN>", "v1");
-
-		LinkedHashMap<String, String> params = new LinkedHashMap<String, String>();
-		params.put("call_uuid", "6653422-91b6-4716-9fad-9463daaeeec2");
-
+		getParameters().put("call_uuid", "6653422-91b6-4716-9fad-9463daaeeec2");
 		/**
 		 * Optional Parameters
 		 * 
@@ -29,13 +25,11 @@ public class TransferCall {
 		 * used by default.
 		 */
 
-		params.put("bleg_url", "http://myxmlserver.com/xmldial");
-
-		GenericResponse response = new GenericResponse();
-
+		getParameters().put("bleg_url", "http://myxmlserver.com/xmldial");
 		try {
-			response = restAPI.transferCall(params);
-			System.out.println(response.apiId);
+			GenericResponse response = getRestApi().transferCall(
+					getParameters());
+			Assert.assertNotNull(response.apiId);
 		} catch (PlivoException plivoException) {
 			plivoException.printStackTrace();
 		}
