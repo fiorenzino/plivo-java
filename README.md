@@ -36,5 +36,3 @@ How to use
 ping me @ fiorenzino[AT]gmail.com
 
 [Plivo is a trademark of Plivo Inc.](http://www.plivo.com)
-
-
