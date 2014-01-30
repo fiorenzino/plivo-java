@@ -1,7 +1,7 @@
 plivo-java: REVAMP PROCESS!!
 =========================
 
-[id]: https://s3.amazonaws.com/new-ui-cms-plivo/img/logo-119x36.png "Plivo"
+[logo]: https://s3.amazonaws.com/new-ui-cms-plivo/img/logo-119x36.png "Plivo"
 
 Description
 -----------
