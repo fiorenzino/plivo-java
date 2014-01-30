@@ -2,7 +2,7 @@ plivo-java: REVAMP PROCESS!!
 =========================
 
 
-![alt text](https://s3.amazonaws.com/new-ui-cms-plivo/img/logo-119x36.png "Plivo")
+![alt text](https://s3.amazonaws.com/new-ui-cms-plivo/img/logo-119x36.png "Plivo") + ![alt text](http://utdream.org/assets/content/ThumbsUp.jpg "Java")
 -----------
 
 Simple rewriting process of original code.. Junit test and more!
