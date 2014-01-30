@@ -1,9 +1,9 @@
 plivo-java: REVAMP PROCESS!!
 =========================
 
-<img src="https://raw.github.com/fiorenzino/plivo-java/master/docs/img/plivo-logo.jpg" alt="plivo logo" style="height: 50px"> + 
-<img src="https://raw.github.com/fiorenzino/plivo-java/master/docs/img/java-logo.jpg" alt="java logo" style="height: 50px"> = 
-<img src="https://raw.github.com/fiorenzino/plivo-java/master/docs/img/plivo-java.png" alt="plivo-java logo" style="height: 200px">
+<img src="https://raw.github.com/fiorenzino/plivo-java/master/docs/img/plivo-logo.jpg" alt="plivo logo" style="height: 20px"> + 
+<img src="https://raw.github.com/fiorenzino/plivo-java/master/docs/img/java-logo.jpg" alt="java logo" style="height: 20px"> = 
+<img src="https://raw.github.com/fiorenzino/plivo-java/master/docs/img/plivo-java.png" alt="plivo-java logo" style="height: 50px">
 -----------
 
 Simple rewriting process of original code.. Junit test and more!
