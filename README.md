@@ -1,4 +1,4 @@
-plivo-java REVAMP PROCESS!!
+plivo-java: REVAMP PROCESS!!
 =========================
 
 Description
@@ -29,5 +29,7 @@ How to use
  
 ### Check the [junit test to verify my code](https://github.com/fiorenzino/plivo-java/tree/master/src/test/java/com/plivo/test)
 
+
+ping me @ fiorenzino[AT]gmail.com
 
 
