@@ -1,12 +1,14 @@
 plivo-java: REVAMP PROCESS!!
 =========================
 
-[logo]: https://s3.amazonaws.com/new-ui-cms-plivo/img/logo-119x36.png "Plivo"
 
 Description
 -----------
 
+[logo]: https://s3.amazonaws.com/new-ui-cms-plivo/img/logo-119x36.png "Plivo"
+
 Simple rewriting process of original code.. Junit test and more!
+
 
 
 How to use
