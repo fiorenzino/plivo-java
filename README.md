@@ -2,7 +2,7 @@ plivo-java: REVAMP PROCESS!!
 =========================
 
 
-![alt text](https://raw.github.com/fiorenzino/plivo-java/master/docs/img/plivo-logo.png "Plivo") + ![alt text](https://raw.github.com/fiorenzino/plivo-java/master/docs/img/java-logo.jpg "Java") = ![alt text](https://raw.github.com/fiorenzino/plivo-java/master/docs/img/plivo-java.jpg "plivo-java")
+![alt text](https://raw.github.com/fiorenzino/plivo-java/master/docs/img/plivo-logo.jpg "Plivo") + ![alt text](https://raw.github.com/fiorenzino/plivo-java/master/docs/img/java-logo.jpg "Java") = ![alt text](https://raw.github.com/fiorenzino/plivo-java/master/docs/img/plivo-java.png "plivo-java")
 -----------
 
 Simple rewriting process of original code.. Junit test and more!
