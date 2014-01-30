@@ -3,7 +3,7 @@ package com.plivo.helper.api.client.simple;
 import java.util.LinkedHashMap;
 
 import com.google.gson.Gson;
-import com.plivo.helper.api.client.CommonRestApi;
+import com.plivo.helper.api.common.CommonRestApi;
 import com.plivo.helper.api.response.pricing.PlivoPricing;
 import com.plivo.helper.exception.PlivoException;
 

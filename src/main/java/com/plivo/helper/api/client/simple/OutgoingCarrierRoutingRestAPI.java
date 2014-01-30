@@ -3,13 +3,13 @@ package com.plivo.helper.api.client.simple;
 import java.util.LinkedHashMap;
 
 import com.google.gson.Gson;
-import com.plivo.helper.api.client.CommonRestApi;
-import com.plivo.helper.api.client.util.HttpUtils;
+import com.plivo.helper.api.common.CommonRestApi;
 import com.plivo.helper.api.response.carrier.OutgoingCarrierRouting;
 import com.plivo.helper.api.response.carrier.OutgoingCarrierRoutingCreatedResponse;
 import com.plivo.helper.api.response.carrier.OutgoingCarrierRoutingFactory;
 import com.plivo.helper.api.response.response.GenericResponse;
 import com.plivo.helper.exception.PlivoException;
+import com.plivo.helper.util.HttpUtils;
 
 public class OutgoingCarrierRoutingRestAPI extends CommonRestApi {
 

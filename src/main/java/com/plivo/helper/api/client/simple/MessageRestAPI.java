@@ -3,12 +3,12 @@ package com.plivo.helper.api.client.simple;
 import java.util.LinkedHashMap;
 
 import com.google.gson.Gson;
-import com.plivo.helper.api.client.CommonRestApi;
-import com.plivo.helper.api.client.util.HttpUtils;
+import com.plivo.helper.api.common.CommonRestApi;
 import com.plivo.helper.api.response.message.Message;
 import com.plivo.helper.api.response.message.MessageFactory;
 import com.plivo.helper.api.response.message.MessageResponse;
 import com.plivo.helper.exception.PlivoException;
+import com.plivo.helper.util.HttpUtils;
 
 public class MessageRestAPI extends CommonRestApi {
 

@@ -1,9 +1,9 @@
-package com.plivo.helper.api.client;
+package com.plivo.helper.api.common;
 
 import java.util.LinkedHashMap;
 
-import com.plivo.helper.api.client.util.HttpUtils;
 import com.plivo.helper.exception.PlivoException;
+import com.plivo.helper.util.HttpUtils;
 
 public class CommonRestApi {
 

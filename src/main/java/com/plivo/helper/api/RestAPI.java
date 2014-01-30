@@ -1,4 +1,4 @@
-package com.plivo.helper.api.client;
+package com.plivo.helper.api;
 
 //Exceptions
 import java.util.LinkedHashMap;

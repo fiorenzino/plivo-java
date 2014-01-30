@@ -1,4 +1,4 @@
-package com.plivo.helper.api.client.util;
+package com.plivo.helper.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;

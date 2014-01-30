@@ -8,7 +8,7 @@ import java.util.Properties;
 
 import org.junit.Before;
 
-import com.plivo.helper.api.client.RestAPI;
+import com.plivo.helper.api.RestAPI;
 
 public class AbstractTest {
 
